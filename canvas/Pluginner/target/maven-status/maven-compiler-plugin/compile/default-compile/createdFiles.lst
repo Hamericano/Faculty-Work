@@ -1,0 +1,9 @@
+com\ace\pluginner\PluginManager$1.class
+com\ace\canvas\Canvas.class
+com\ace\menu\MenuItem.class
+com\ace\menu\IMenuItem.class
+com\ace\pluginner\PluginManager.class
+com\ace\menu\IExecutableAction.class
+com\ace\menu\ApplicationMenu.class
+com\ace\menu\Menu.class
+com\ace\pluginner\PluginApp.class
